@@ -7,7 +7,7 @@
 - ☎️ Contate-me no telefone: (11)956381535
 - 😄 Pronomes: Ela/Dela
 
-<<div align="center">
+<div align="center">
   <a href="https://github.com/JuliaCubas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JuliaCubas&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuliaCubas&layout=compact&langs_count=7&theme=radical"/>
