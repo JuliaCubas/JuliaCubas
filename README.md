@@ -1,11 +1,10 @@
 ### Olá! Me chamo Julia Soares
 
-- 💻 Atualmente em busca de um estágio
-- 📘 Foco de estudo em Javascript utilizando react.js
-- 📚 Atualmente cursando bacharelado em Sistemas de Informação
+- 💻 Atualmente estagiária de TI
+- 📘 Foco de estudo desenvolvimento full stack
+- 📚 Cursando bacharelado em Sistemas de Informação
 - ✉️ Contate-me no E-mail: Julia.soares2907@gmail.com
-- ☎️ Contate-me no telefone: (11)956381535
-- 😄 Pronomes: Ela/Dela
+- ☎️ Contate-me no telefone: (11)95638-1535
 
   ##
   
