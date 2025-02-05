@@ -3,16 +3,16 @@ Bem-vindo ao meu GitHub! Aqui você encontrará projetos voltados para análise 
 
 ## 🔹 Sobre mim
 Sou Analista de Sistemas Jr e estudante de Bacharelado em Sistemas de Informação. Tenho experiência em:
--✅ Power BI & DAX – Criação de dashboards interativos e análises de dados.
--✅ Python & Web Scraping – Extração automatizada de informações estratégicas.
--✅ Desenvolvimento Backend – Aplicações em PHP e SQL para otimização de processos.
--✅ Modelagem & Tratamento de Dados – Manipulação eficiente de grandes volumes de informação.
+- ✅ Power BI & DAX – Criação de dashboards interativos e análises de dados.
+- ✅ Python & Web Scraping – Extração automatizada de informações estratégicas.
+- ✅ Desenvolvimento Backend – Aplicações em PHP e SQL para otimização de processos.
+- ✅ Modelagem & Tratamento de Dados – Manipulação eficiente de grandes volumes de informação.
 
 ## 📂 O que você vai encontrar aqui?
--🔸 Scripts e automações para coleta e tratamento de dados.
--🔸 Projetos de dashboard no Power BI.
--🔸 Aplicações Python e PHP para análise de mercado.
--🔸 Estudos e experimentos com SQL, APIs e machine learning.
+- 🔸 Scripts e automações para coleta e tratamento de dados.
+- 🔸 Projetos de dashboard no Power BI.
+- 🔸 Aplicações Python e PHP para análise de mercado.
+- 🔸 Estudos e experimentos com SQL, APIs e machine learning.
 
 💡 Estou sempre aberta a novas colaborações e oportunidades!
 
