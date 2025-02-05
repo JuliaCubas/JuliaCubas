@@ -17,6 +17,7 @@ Sou Analista de Sistemas Jr e estudante de Bacharelado em Sistemas de Informaç�
 💡 Estou sempre aberta a novas colaborações e oportunidades!
 
 📩 Vamos conectar?
+
 🔗 https://www.linkedin.com/in/julia-soares-dos-santos-716264208/
   ##
   
