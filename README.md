@@ -29,4 +29,3 @@ Sou Analista de Sistemas Jr e estudante de Bacharelado em Sistemas de Informa√ß√
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
 </div>
 
-![Snake animation](https://github.com/JuliaCubas/JuliaCubas/blob/output/github-contribution-grid-snake.svg)
